@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# VSCode settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# System files
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# API Keys or secrets
+apikey.txt
+config.yaml
+
+# Notebooks output
+*.out
